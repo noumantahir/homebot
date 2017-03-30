@@ -21,3 +21,6 @@ Instructions for building up robot and VR combo (later...)
 
 ## HomeBot Videos Playlist
 https://www.youtube.com/watch?v=YfnGFEC_Qhs&list=PLmtYV-2a2Jmb5AgO0bG46Vx371JiQetJg
+
+## Collaborizm Project Link
+https://www.collaborizm.com/project/B1aTqu4lx
